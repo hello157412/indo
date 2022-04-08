@@ -67,7 +67,7 @@ function draw() {
 
         if (song1_status == false) {
             song1.play();
-            document.getElementById("song").innerHTML = "Playing - Lover";
+            document.getElementById("song").innerHTML = "Playing - Old Town";
         }
     }
 
@@ -78,7 +78,7 @@ function draw() {
 
         if (song2_status == false) {
             song2.play();
-            document.getElementById("song").innerHTML = "Playing - New Rules";
+            document.getElementById("song").innerHTML = "Playing - Toxic";
         }
     }
 
